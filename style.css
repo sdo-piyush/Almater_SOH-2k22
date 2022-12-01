@@ -1,0 +1,65 @@
+@font-face {
+  font-family: 'Poppins Light';
+  src: url(Font/Poppins-Light.ttf);
+}
+
+@font-face {
+  font-family: 'Poppins ExtraLight';
+  src: url(Font/Poppins-ExtraLight.ttf);
+}
+
+@font-face {
+  font-family: 'Poppins Medium';
+  src: url(Font/Poppins-Medium.ttf);
+}
+
+@font-face {
+  font-family: 'Poppins SemiBold';
+  src: url(Font/Poppins-SemiBold.ttf);
+}
+
+body::before {
+  display: block;
+  content: '';
+  height: 60px;
+}
+
+#map {
+  width: 100%; 
+  height: 100%;
+  border-radius: 10px;
+}
+
+@media (min-width: 768px) {
+  .news-input {
+    width: 50%;
+  }
+}
+
+.container{
+  font-family: 'Poppins Light';
+  font-size: 15px;
+}
+
+.navbar-brand{
+  font-family: 'Poppins Medium';
+}
+
+.text-warning{
+  font-family: 'Poppins SemiBold';
+}
+
+.mb-3{
+  font-family: 'Poppins SemiBold';
+}
+
+.btn-primary{
+  font-size: 15px;
+}
+
+.fixed-text{
+  background-color: #BEA6F2;
+}
+
+
+
