@@ -1,8 +1,15 @@
-# Frontend Bootcamp Website - Bootstrap 5
+# Almater
 
-> Simple one page website for a fake bootcamp
+A simple website using html,css and javascript for a alumni portal website.
+Firebase is also used for authentication.
 
-This is part of a [YouTube tutorial](https://www.youtube.com/watch?v=4sosXZsdy-s&t=186s)
+You can simple clone the project and run the html file or simply follow the link below
+https://sdo-piyush.github.io/Almater_SOH-2k22/
 
-### Website Demo
-https://www.frontendbootcampdemo.com/
+
+
+## Screenshots
+
+![](https://github.com/sdo-piyush/Almater_SOH-2k22/blob/main/Screenshot%20(1).png)
+![](https://github.com/sdo-piyush/Almater_SOH-2k22/blob/main/Screenshot%20(2).png)
+![](https://github.com/sdo-piyush/Almater_SOH-2k22/blob/main/Screenshot_20221201_081037.png)
